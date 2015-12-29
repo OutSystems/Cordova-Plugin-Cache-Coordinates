@@ -2,7 +2,7 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
            id="com.os.mobile.cachelocation"
-      version="0.0.1">
+      version="1.0.0">
     <name>Cache Coordinates</name>
     <description>Plugins to get Coordinates and store them</description>
     <license>Apache 2.0</license>
